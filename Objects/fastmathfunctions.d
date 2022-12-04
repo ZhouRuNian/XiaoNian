@@ -1,0 +1,16 @@
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\FastMathFunctions.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_cos_f32.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Include\arm_math.h
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\ARMCC\Bin\..\include\math.h
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Include\arm_common_tables.h
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_cos_q15.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_cos_q31.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sin_f32.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sin_q15.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sin_q31.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sqrt_q15.c
+.\objects\fastmathfunctions.o: D:\Keil MDK\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sqrt_q31.c
